@@ -39,8 +39,9 @@
     "_": true,
 
     // Models:
-    "User": true
-    
+    "User": true,
+    "TextNode": true
+
     // …and any others.
     // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
   },
